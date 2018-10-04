@@ -23,6 +23,7 @@ HOW THE OUTPUT LOOKS:
 ---------------------------------------------------------------------------
 Testing for Sentence:  The president wants to control the board 's control
 No smoothing calculation...
+
 Probability of  ('The', 'president')  is  0
 Probability of  ('president', 'wants')  is  0
 Probability of  ('wants', 'to')  is  0.5
@@ -35,6 +36,7 @@ No smoothing:  0.0
 
 
 Add one smoothing calculation...
+
 Probability of  ('The', 'president')  is  0.00017774617845716317
 Probability of  ('president', 'wants')  is  0.0001783166904422254
 Probability of  ('wants', 'to')  is  0.0005349500713266762
